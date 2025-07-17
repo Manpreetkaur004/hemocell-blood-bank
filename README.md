@@ -43,13 +43,14 @@ HemoCell addresses the following solutions:
 
 ## Developer
 
-HemoCell was developed by [Moazam Ali](https://www.linkedin.com/in/moazamdev/), a software engineer with experience in web development.
+HemoCell was developed by Manpreet kaur ( https://www.linkedin.com/in/manpreeetkaur004) frehser in web development .
+Inspiration of this site is taken from open sources and github .
 
 ## Instructions to Run
 
 To run HemoCell locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/moazamdev/hemocell.git`
+1. Clone the repository: `https://github.com/Manpreetkaur004/hemocell-blood-bank.git"
 2. Install dependencies: `npm install`
 3. Start the server: `npm start` or `npm run dev`
 
