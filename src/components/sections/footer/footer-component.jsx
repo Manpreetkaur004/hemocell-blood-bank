@@ -36,16 +36,16 @@ const FooterComponent = () => {
 
 	const contactLinks = [
 		{
-			title: "(+92)-304-050-9060",
-			link: "tel:+923040509060",
+			title: "(+91)-000-000-9060",
+                        link: "tel:+91-000-000-9060",
 		},
 		{
-			title: "help@hemocell.com",
-			link: "mailto:help@hemocell.com",
+			title: "help@hemocellbloodbank.com",
+			link: "mailto:help@hemocellbloodbank.com",
 		},
 		{
-			title: "Karachi, Pakistan",
-			link: "https://goo.gl/maps/QCLpYP3yyUqdT8HA7",
+			title: "Chandigarh, Punjab, India",
+			link: "https://www.google.com/maps/place/Chandigarh,+Punjab,+India",
 		},
 		{
 			title: "Open 24/7",
@@ -63,12 +63,12 @@ const FooterComponent = () => {
 						</h2>
 						<h3 className="not-italic font-normal text-[20px] leading-10 text-[#D9D9D9]">
 							You don't have to be a doctor to save a life: Just
-							donate blood
+							donate  blood , save life .
 						</h3>
 					</div>
 					<div className="footer-col second-col">
 						<h3 className="not-italic font-medium text-[16px] leading-[27px] tracking-[0.21em] uppercase text-[red] mb-3">
-							Explore
+							Explore us 
 						</h3>
 						<ul className="flex flex-col gap-2">
 							{exploreLinks.map((link, index) => (
@@ -103,13 +103,13 @@ const FooterComponent = () => {
 				</div>
 				<div className="footer-col fourth-col text-center mt-10 border-t-[1px] border-off_white/[.2] pt-6">
 					<h3 className="not-italic text-center font-regular text-[18px] leading-[34px] text-[#D9D9D9] ">
-						©️ 2023 HemoCell - Website design by{" "}
+						©️ 2025 HemoCell - Website design by{" "}
 						<a
-							href="https://linkedin.com/in/moazamdev"
+							href="https://www.linkedin.com/in/manpreeetkaur004"
 							className="underline"
 							target="_blank"
 						>
-							AlphaDev
+							Manpreet Kaur 
 						</a>
 					</h3>
 				</div>
